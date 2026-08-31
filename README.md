@@ -1,2 +1,2 @@
 # QueueLess
-Smart digital queue &amp; appointment management system designed to reduce waiting time and improve service efficiency.
+Smart digital queueLess and appointment management system designed to reduce waiting time and improve service efficiency.
